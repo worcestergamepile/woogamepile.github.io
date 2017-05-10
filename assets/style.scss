@@ -1,0 +1,15 @@
+---
+---
+
+@import "{{ site.theme }}";
+
+$green-bg: #a3ecc6;
+$black: #000000;
+
+body#crBod {
+  background-color: $green-bg;
+}
+
+#crNav {
+  background-color: $black;
+}
