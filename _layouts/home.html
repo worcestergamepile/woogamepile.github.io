@@ -11,13 +11,9 @@
   </head>
   <body>
     {% include header.html %}
-    <section class="page-header">
-      <div class="row">
-        <span class="row col-md-12">
-            <img src = "{{ '/assets/img/banner_$000.png?v=' | append: site.github.build_revision | relative_url }}"alt="branding-banner">
-        </span>
-      </div>
-    </section>
+
+    <img src = "{{ '/assets/img/banner_$000.png?v=' | append: site.github.build_revision | relative_url }}" alt="branding-banner" class="img-responsive"> >
+
 
 
     <section class="main-content">
