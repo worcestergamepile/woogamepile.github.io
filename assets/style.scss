@@ -3,7 +3,19 @@
 
 @import "{{ site.theme }}";
 
+$primary: #222B91;
+$white: #ffffff;
+
 .no-padding {
   padding-left: 0;
   padding-right: 0;
+}
+
+.gp-nav {
+  background-color: $primary;
+  color: $white;
+}
+
+h1, h2, h3, h4, h5, h6 {
+  color: $primary;
 }

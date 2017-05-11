@@ -1,12 +1,12 @@
 # Game Development Resources
 
-## Table of Contents
-+ New-to-Games
-+ College Students and Recent Grads
-+ Industry Professionals
+## Contents
++ [New-to-Games](#new)
++ [College Students and Recent Grads](#students)
++ [Industry Professionals](#professionals)
 
-## New-to-Games
+## <a name="new"></a>New-to-Games
 
-## College Students and Recent Grads
+## <a name="students"></a>College Students and Recent Grads
 
-## Industry Professionals
+## <a name="professionals"></a>Industry Professionals
