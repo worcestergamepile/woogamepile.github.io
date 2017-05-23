@@ -4,18 +4,26 @@
 @import "{{ site.theme }}";
 
 $primary: #222B91;
-$white: #ffffff;
+$menuColors: #F70185;
 
 .no-padding {
-  padding-left: 0;
-  padding-right: 0;
+	padding-left: 0;
+	padding-right: 0;
 }
 
 #gp-nav {
-  background-color: $primary;
-  color: $white;
+	background-color: $primary;
+	color: #ffffff;
 }
 
-h1, h2, h3, h4, h5, h6 {
-  color: $primary;
+a #gp-nav {
+	color: $menuColors;
+}
+
+body #gp-body {
+	font-family: font-family: 'Raleway', sans-serif;
+}
+
+body #gp-body > h1, h2, h3, h4, h5, h6 {
+	color: $primary;
 }
