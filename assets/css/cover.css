@@ -14,7 +14,6 @@ a:hover {
 .btn-default:hover,
 .btn-default:focus {
   color: #333;
-  text-shadow: none; /* Prevent inheritance from `body` */
   background-color: #fff;
   border: 1px solid #fff;
 }
@@ -26,7 +25,7 @@ a:hover {
 
 html,
 body {
-  background: url(images/bg.jpg) no-repeat center center fixed; 
+  background: url(images/bg.jpg) no-repeat center center fixed !important; 
   -webkit-background-size: cover;
   -moz-background-size: cover;
   -o-background-size: cover;
@@ -36,7 +35,6 @@ body {
   font-family: 'Raleway', sans-serif; 
   color: #fff; 
   text-align: center;
-  text-shadow: 0 1px 3px rgba(0,0,0,.5);
 }
 
 /* Extra markup and styles for table-esque vertical and horizontal centering */
