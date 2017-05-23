@@ -7,14 +7,16 @@ You've reached the home of the Worcester Game Pile (Woo! Game Pile for short). W
 # The Board
 
 ## Current Board Members
-### Christian De La Cruz
-### Cian Rice
+
+#### Christian De La Cruz
+#### Cian Rice
 
 ## Past Board Members
-### Breeze Grigas
-### Francesca Carletto-Leon
-### Jacob Peltola
-### Michael Flood
-### Nick Mudry
-### Rejon Taylor-Foster
-### Sarah Como
+
+#### Francesca Carletto-Leon
+#### Sarah Como
+#### Michael Flood
+#### Breeze Grigas
+#### Nick Mudry
+#### Jacob Peltola
+#### Rejon Taylor-Foster
