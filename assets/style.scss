@@ -1,8 +1,6 @@
 ---
 ---
 
-/* @import "{{ site.theme }}"; */
-
 $primary: #222B91;
 $menuColors: #F70185;
 
@@ -13,11 +11,11 @@ $menuColors: #F70185;
 
 #gp-nav {
 	background-color: $primary;
-	color: #ffffff;
+	color: #ffffff !important;
 }
 
 a #gp-nav {
-	color: $menuColors;
+	color: $menuColors !important;
 }
 
 body #gp-body {
