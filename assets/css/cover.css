@@ -26,17 +26,14 @@ a:hover {
 
 html,
 body {
-  font-family: 'Raleway', sans-serif; 
-  height: 100%;
-  background-color: #333;
-  background: url("../img/home-bg.png") no-repeat cover fixed; 
+  background: url(images/bg.jpg) no-repeat center center fixed; 
   -webkit-background-size: cover;
   -moz-background-size: cover;
   -o-background-size: cover;
   background-size: cover;
-
 }
-body {
+body {  
+  font-family: 'Raleway', sans-serif; 
   color: #fff; 
   text-align: center;
   text-shadow: 0 1px 3px rgba(0,0,0,.5);
