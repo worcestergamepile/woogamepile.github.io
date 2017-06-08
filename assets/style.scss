@@ -4,24 +4,9 @@
 $primary: #222B91;
 $menuColors: #F70185;
 
-.no-padding {
-	padding-left: 0;
-	padding-right: 0;
-}
-
-#gp-nav {
-	background-color: $primary;
-	color: #ffffff !important;
-}
-
-a #gp-nav {
-	color: $menuColors !important;
-}
-
-body #gp-body {
+body {
 	font-family: 'Raleway', sans-serif;
 }
-
 
 h1 {
 	color: $primary !important;
