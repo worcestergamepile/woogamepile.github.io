@@ -5,6 +5,8 @@ $primary: #222B91;
 $menuColors: #F70185;
 
 body {
+  padding-top: 50px;
+  padding-bottom: 20px;
 	font-family: 'Raleway', sans-serif;
 }
 
@@ -12,6 +14,6 @@ h1 {
 	color: $primary !important;
 }
 
-body #gp-body > h2, h3, h4, h5, h6 {
+body > h2, h3, h4, h5, h6 {
 	color: $primary !important;
 }
